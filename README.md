@@ -73,7 +73,7 @@ terminal.
 > only need to do this once), then come back to this lesson.
 
 [live-server]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-[live-server settings]: https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
+[live-server ings]: https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
 
 ## Analyze Data Sent in an HTML Form
 
